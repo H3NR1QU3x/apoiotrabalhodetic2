@@ -1,0 +1,112 @@
+
+body 
+{
+  background-color: black;
+  color: white;
+}
+
+h1 
+{
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+
+h2
+{
+  font-family: verdana;
+  color: white;
+  
+}
+
+h3
+{
+  font-family: verdana;
+  color: white;
+}
+
+h4
+{
+  font-family: verdana;
+  color: white;
+}
+
+h5
+{
+  font-family: verdana;
+  color: white;
+}
+
+h6
+{
+  font-family: verdana;
+  color: white;
+}
+
+p 
+{
+  color: white;
+  font-family: verdana;
+  font-size: 15px;
+}
+
+a
+{
+  color: greenyellow;
+  font-family: verdana;
+  font-size: 15px;
+}
+
+table 
+{
+  border: 1px solid white;
+  border-style:groove;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+td
+{
+  border:1px solid white;
+  border-style:groove;
+  color: white;
+  font-family: verdana;
+}
+
+tr
+{
+  border:1px solid white;
+  border-style:groove;
+  color: white;
+  font-family: verdana;
+}
+
+th
+{
+  
+  border:1px solid white;
+  border-style:groove;
+  color: white;
+  font-family: verdana;
+}
+
+ul
+{
+  color: white;
+}
+
+ol
+{
+  color: white;
+}
+
+caption
+{
+  color: white;
+}
+
+line
+{
+  color: white;
+}
